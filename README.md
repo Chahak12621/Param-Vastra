@@ -36,23 +36,6 @@ cd e-shop
 npm install
 npm start 
 
-Firebase Setup
-Go to Firebase Console
-
-Create a project
-
-Enable Authentication > Email/Password
-
-const firebaseConfig = {
-  apiKey: "AIzaSyBESXGZuNefsSheDeay06i99fiiBgZkIwo",
-  authDomain: "my-store-5cdaf.firebaseapp.com",
-  projectId: "my-store-5cdaf",
-  storageBucket: "my-store-5cdaf.firebasestorage.app",
-  messagingSenderId: "17496201738",
-  appId: "1:17496201738:web:f9cb6f361a8ef9e60cddf3",
-  measurementId: "G-0LQDNNFC6K"
-};
-
 
 Author
 Your Name — Chahak12621
