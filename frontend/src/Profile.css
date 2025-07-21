@@ -1,0 +1,50 @@
+.profile-page {
+  max-width: 500px;
+  margin: auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.profile-page h1,
+.profile-page h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.profile-page label {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.profile-page input,
+.profile-page textarea {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 0.3rem;
+}
+
+.buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.buttons button {
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  background: #0055aa;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.buttons button:hover {
+  background: #003d80;
+}
